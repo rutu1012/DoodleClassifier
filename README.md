@@ -40,7 +40,7 @@ Parameters   | Value
 ------------ | -------------
 Learning rate  | 0.001
 Mini batch size   | 512
-Epochs   | 70
+Epochs   | 75
 Activation  | ReLU
 Loss      | Cross Entropy Loss
 Optimizer  | Adams
