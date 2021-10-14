@@ -16,6 +16,7 @@ Coding the **CNN model** of the network by using torch for convolution of image 
 
 A **Drawing Pad** is also created using OpenCv to facilitate the user in giving inputs in drawing the doodle for the developed model to classify it.
 
+
 # CNN Architecture
 Training a Convolutional Neural Network with 2 **Convolutional Layers**, both using a filter size of 5x5:
 
@@ -42,5 +43,20 @@ Mini batch size   | 512
 Epochs   | 70
 Activation  | ReLU
 Loss      | Cross Entropy Loss
-Optimization  | Adams
+Optimizer  | Adams
 Betas   | (0.9, 0.999)
+
+# Results
+Loss vs No. of Epochs graph  
+![epoch graph](https://user-images.githubusercontent.com/83291620/137348543-638351ce-d985-4404-98ad-87327ccdd07d.jpg)
+
+
+### Accuracy ###
+
+Datast   | Accuracy
+------- | -------------
+Train set   | 92.042%
+Test set  | 90.520%
+
+# Final Outcome
+![bird_doodle](https://user-images.githubusercontent.com/83291620/137347745-d85718c6-5f58-494f-b6d8-7c468b68efc9.gif)
