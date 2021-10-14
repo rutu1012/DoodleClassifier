@@ -5,7 +5,7 @@ Draw doodles in real time, and then classify them into one of the chosen classes
 
 # Dataset
 The dataset used consisted of 2807037 doodle images of size 28x28 to be classified into 20 classes.   
-Dataset link: https://drive.google.com/drive/u/0/folders/1Sr44plRzk8xRGrWUwtuHQc8XNkJpAN6U
+Dataset link: https://drive.google.com/file/d/1HS05bmAim7YRod3edsoMyQtXG_k1agJJ/view?usp=sharing
 
 # Approach
 The **Prelimnary Stage** involved studying and learning the basics of Machine Learning and Deep Learning algorithms .
