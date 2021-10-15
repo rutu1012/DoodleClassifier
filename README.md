@@ -12,7 +12,7 @@ The **Prelimnary Stage** involved studying and learning the basics of Machine Le
 
 For better understanding of the topic, developed a **Digit Classifier** from scratch using the MNIST dataset coded using numpy. The writing of all the functions from scratch for the Forward and Backward propagation along with activations and calculating gradients and putting it all into an iterative learning function helped strengthen the concepts.
 
-Coding the **CNN model** of the network by using torch for convolution of image with filters along with maxpooling. After multiple convolutional layers, the input representation is flattened into a feature vector and passed through a network of neurons to predict the output probabilities.
+The **CNN model** is coded with the help of pytorch library for the convolution of image with filters along with maxpooling. After multiple convolutional layers, the input representation is flattened into a feature vector and passed through a network of neurons to predict the output probabilities.
 
 A **Drawing Pad** is also created using OpenCv to facilitate the user in giving inputs in drawing the doodle for the developed model to classify it.
 
@@ -60,3 +60,8 @@ Test set  | 90.520%
 
 # Final Outcome
 ![bird_doodle](https://user-images.githubusercontent.com/83291620/137347745-d85718c6-5f58-494f-b6d8-7c468b68efc9.gif)
+
+# Resources referred
+- [Coursera Deep Learning](https://www.coursera.org/specializations/deep-learning)
+- [Pytorch documentation](https://pytorch.org/docs/stable/index.html)
+
