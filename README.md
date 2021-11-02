@@ -59,7 +59,8 @@ Train set   | 92.042%
 Test set  | 90.520%
 
 # Final Outcome
-![bird_doodle](https://user-images.githubusercontent.com/83291620/137347745-d85718c6-5f58-494f-b6d8-7c468b68efc9.gif)
+![doodle_gif_f](https://user-images.githubusercontent.com/83291620/139815477-20dd85e7-a673-48a6-bbf3-7e1b7c66d561.gif)
+
 
 # Resources referred
 - [Coursera Deep Learning](https://www.coursera.org/specializations/deep-learning)
