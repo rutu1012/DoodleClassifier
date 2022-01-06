@@ -53,7 +53,7 @@ Loss vs No. of Epochs graph
 
 ### Accuracy ###
 
-Datast   | Accuracy
+Dataset   | Accuracy
 ------- | -------------
 Train set   | 92.042%
 Test set  | 90.520%
