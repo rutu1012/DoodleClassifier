@@ -40,7 +40,7 @@ Parameters   | Value
 ------------ | -------------
 Learning rate  | 0.001
 Mini batch size   | 512
-Epochs   | 75
+Epochs   | 25
 Activation  | ReLU
 Loss      | Cross Entropy Loss
 Optimizer  | Adams
@@ -48,15 +48,16 @@ Betas   | (0.9, 0.999)
 
 # Results
 Loss vs No. of Epochs graph  
-![epoch graph](https://user-images.githubusercontent.com/83291620/137348543-638351ce-d985-4404-98ad-87327ccdd07d.jpg)
+![loss graph](https://user-images.githubusercontent.com/83291620/149280732-409b340b-c512-48e9-9cec-4f82313c0cff.png)
+
 
 
 ### Accuracy ###
 
 Dataset   | Accuracy
 ------- | -------------
-Train set   | 92.042%
-Test set  | 90.520%
+Train set   | 91.5316%
+Test set  |  90.3552%
 
 # Final Outcome
 ![doodle_gif_f](https://user-images.githubusercontent.com/83291620/139815477-20dd85e7-a673-48a6-bbf3-7e1b7c66d561.gif)
