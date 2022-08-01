@@ -56,8 +56,8 @@ Loss vs No. of Epochs graph
 
 Dataset   | Accuracy
 ------- | -------------
-Train set   | 91.5316%
-Test set  |  90.3552%
+Train set   | 92.122%
+Test set  |  90.635%
 
 # Final Outcome
 ![doodle_gif_f](https://user-images.githubusercontent.com/83291620/139815477-20dd85e7-a673-48a6-bbf3-7e1b7c66d561.gif)
